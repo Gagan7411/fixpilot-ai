@@ -113,6 +113,13 @@ FixPilot can debug **any external project** on your computer.
 *   **Backend**: Node.js, Express, Socket.io, Chokidar (File Watching).
 *   **AI**: Google Gemini API (@google/genai).
 
+## 👨‍💻 Developer
+
+**FixPilot AI** was designed and developed by **Gagan M**.
+
+*   **Vision**: To create a self-healing software ecosystem that bridges the gap between local debugging and production incident response.
+
+
 ## 📄 License
 
 MIT License. Free to use and modify.
