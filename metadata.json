@@ -1,0 +1,5 @@
+{
+  "name": "FixPilot AI Dashboard",
+  "description": "The command center for FixPilot AI – a universal debugging assistant. Monitors runtime errors, visualizes project health, and manages AI-driven patches.",
+  "requestFramePermissions": []
+}
